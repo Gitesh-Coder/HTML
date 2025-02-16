@@ -1,0 +1,43 @@
+<!doctype html>
+	<head>
+		<title>FY HTML Page</title>
+		<meta name = "description" content = "HTML Page" />
+		<meta name = "keywords" content = "FY HTML Session" />
+		<meta name = "viewport" content = "width=device-width, initial-scale=1" />
+		<meta charset = "UTF-8" />
+		<meta name = "author" content = "Gitesh" />
+	</head>
+	<body>
+		Content to display
+		<h1>Block level tags - Heading Hierarchies</h1>
+		<h1>Heading 1</h1>
+		<h2>Heading 2</h2>
+		<h3>Heading 3</h3>
+		<h4>Heading 4</h4>
+		<h5>Heading 5</h5>
+		<h6>Heading 6</h6>
+
+		<h1>Block level Tags - Paragraph</h1>
+		<p>Text within paragraph tag</p>
+		<p align = "right">paragraph with right alignment</p>
+		<p align = "left">paragraph with left alignment</p>
+		<p align = "right">paragraph with right alignment</p>
+		<p align = "center">paragraph with center alignment</p>
+		<p align = "justify">paragraph with justified alignment</p>
+
+		<h1>Line break Tag<br /> Character entities-non-breaking space: &nbsp;</h1>
+		<p>Text within paragraph tag</p>
+		<p align = "right">paragraph with right alignment</p>
+		<p align = "left">paragraph with left alignment</p>
+		<p align = "right">paragraph with right alignment</p>
+		<p align = "center">paragraph with center alignment</p>
+		<p align = "justify">paragraph with justified alignment</p>
+		&#x20B9;
+
+		<br />
+		<pre>
+					Hi This is gitesh
+		Hello							Bye
+		</pre>
+	</body>
+</html>
